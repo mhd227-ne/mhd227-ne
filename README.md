@@ -2,7 +2,7 @@
 
 <p align="center">  
   <a href="https://github.com/mhd227-ne">
-    <img alt="MHD" height="300" src="https://avatars.githubusercontent.com/u/140977479?v=4">
+    <img alt="MHD" height="300" src="https://files.catbox.moe/wvlior.jpg">
   </a>
 </p>
 <p align="center">
@@ -75,38 +75,4 @@ C&C++, HTML5, CSS, JAVASCRIPT
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=salmanytofficial&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
-### 📊 Repo Stats : 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=salmanytofficial&repo=XLICON-V2-MD&theme=radical)
-
----
-
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=salmanytofficial)
-
-</details>
-
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-  ![Metrics](https://metrics.lecoq.io/salmanytofficial?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKarachi)
-
-</details> 
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=salmanytofficial&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
-
-## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ahmmikun) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ahmmikun) 
-
-
- 
 
